@@ -8,7 +8,7 @@ Organizations are increasingly looking for ways to enable seamless and secure da
 
 With Microsoft Purview Data Sharing:
 
-* Data providers can now share data in-place from Azure Data Lake Storage Gen2 and Azure Storage accounts, both within and across orgnaizations. Share data directly without data duplication and centrally manage your sharing activities from within Microsoft Purview.
+* Data providers can now share data in-place from Azure Data Lake Storage Gen2 and Azure Storage accounts, both within and across organizations. Share data directly without data duplication and centrally manage your sharing activities from within Microsoft Purview.
 * Data consumers can now have near real-time access to shared data. With storage data access and transactions charged to the data consumers based on what they use, at no additional cost to the data provider.
 
 ## :thinking: Prerequisites
